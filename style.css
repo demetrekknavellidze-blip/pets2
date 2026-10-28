@@ -42,7 +42,7 @@ header{
 
 .startingSection{
     height: 700px;
-    background-image: "bc.jpg";
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeUrSrDK0ZtRUcjj6lsEiDCKlK9rRJxyhFlikThALnrw&s=10");
     background-size: cover;
     background-position: center;
     display: flex;
