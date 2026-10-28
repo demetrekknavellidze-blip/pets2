@@ -42,7 +42,7 @@ header{
 
 .startingSection{
     height: 700px;
-    background-image: url(bc.jpg);
+    background-image: "bc.jpg";
     background-size: cover;
     background-position: center;
     display: flex;
